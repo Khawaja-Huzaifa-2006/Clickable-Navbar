@@ -51,9 +51,6 @@ nav{
         gap: 20px;
         background-color: #74C69D;
     }
-    .links > ul.show-menu {
-        display: flex;
-    }
     .links > #menu {
         display: block;
         margin-top: 5px;
